@@ -40,7 +40,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alfazflh/alfazflh/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfazflh/alfazflh/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfazflh/alfazflh/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/alfazflh/alfazflh/output/snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
