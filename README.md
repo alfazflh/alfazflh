@@ -26,39 +26,25 @@
 
 ---
 
-### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,laravel,react,vue,nodejs,mysql,figma,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alfazflh&show_icons=true&theme=tokyonight" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alfazflh&theme=tokyonight" />
-</p>
-<p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfazflh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/alfazflh/alfazflh/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfazflh&bg_color=0f172a&color=38bdf8&line=22d3ee&point=38bdf8&area=true&hide_border=true&radius=10" />
-</p>
-
----
-
-### 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
