@@ -5,12 +5,17 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: # allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -18,6 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
