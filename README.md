@@ -30,12 +30,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,laravel,react,vue,nodejs,mysql,figma,git,github,vscode,linux" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfazflh&show_icons=true&theme=tokyonight&token=${{ secrets.PAT_1 }}" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfazflh&layout=compact&theme=tokyonight&token=${{ secrets.PAT_1 }}" alt="Top Langs" />
-</p>
 
 
 ---
