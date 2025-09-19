@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfaz Fillah</h1>
+<h1 align="center">Hi 👋, I'm Alfaz Filla</h1>
 <h3 align="center">🚀 A passionate Web Developer & Tech Enthusiast 🎨</h3>
 
 <p align="center">
